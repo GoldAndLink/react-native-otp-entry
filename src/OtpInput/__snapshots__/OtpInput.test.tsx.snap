@@ -398,6 +398,7 @@ exports[`OtpInput UI should render correctly 1`] = `
   <TextInput
     autoFocus={true}
     inputMode="numeric"
+    returnKeyType="done"
     maxLength={6}
     onChangeText={[Function]}
     secureTextEntry={false}
